@@ -5,3 +5,6 @@
   ##### - TPU/GPU - I have used google colab to train this model
   ##### - HuggingFace API - I have used huggingFace API for training the model also healthcare dataset is from huggingface website
   ![screenshot](ChatBotSample.png)
+<p align="center">
+  <img src="ChatBotSample.png" width="350" heigth=350 title="Sample ChatBot Interface">
+</p>
